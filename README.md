@@ -25,14 +25,14 @@ This landing page provides a visually appealing and user-friendly interface for 
 To run this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/nike-shoes-landing-page.git
+   git clone https://github.com/shounen555/nike_store.git
 2. Navigate to the project directory:
    cd nike-shoes-landing-page
 3. Install dependencies:
    npm install
 4. Start the development server:
   npm start
-5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the landing page.
+5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to view the landing page.
 
 ## Usage
 
